@@ -29,7 +29,7 @@ list online. I briefly tried to create several conditional statements that could
 the best use of my time can be spent creating my own list of words and have the program reference that file. This was definitely faster, and less complicated.
 
 
-<img width="600" alt="carbon" src="https://user-images.githubusercontent.com/76184787/180669592-44adda9a-f068-4fbf-86c9-b927203a317a.png">
+<imgg width="600" alt="carbon" src="https: //user-images.githubusercontent.com/76184787/180669592-44adda9a-f068-4fbf-86c9-b927203a317a.png">
 
 ## Tech Stack
 
