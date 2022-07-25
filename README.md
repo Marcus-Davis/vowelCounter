@@ -13,7 +13,7 @@ This program displays the total count of vowels in the text from user input.
 <p align="middle">
 <img width="350" alt="whatwyliketodo" src="https://user-images.githubusercontent.com/76184787/180669904-fb5e786c-5cc6-4868-ba58-c571cbeeddfa.png">
 <img width="300" alt="vowelcountma b" src="https://user-images.githubusercontent.com/76184787/180670005-0c551c1a-f222-4cdb-932c-827263b6aad4.png">
-<img width="300" alt="vowelcount6" src="https://user-images.githubusercontent.com/76184787/180670035-dd9a6a0d-26b2-4fe1-b324-795419dd1725.png">
+<img width="300" alt="vowelcount6" src="https://user-images.githubusercontent.com/76184787/180845375-0c742316-238b-4225-af80-8d87de6d303a.png">
 </p>
 
 ## Lessons Learned
