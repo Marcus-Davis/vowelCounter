@@ -6,7 +6,7 @@ This program displays the total count of vowels in the text from user input.
 
 ## Additional Features
 
-- Counts number of vowels (including 'y')
+- Counts number of vowels (including "y")
 - Counts number of characters
 - Counts number of words
 
@@ -23,10 +23,10 @@ an image to the welcome screen.
 
 
 
-One challenge I faced was figuring how to get the program to add 'y' as a vowel at the appropriate time. I orginally 
-wanted to have the program read a file containing all of the english words that have y as a vowel, but I couldn't find such a 
-list online. I briefly tried to create several conditional statements that could detect when 'y' mmight be a vowel instead. In the end, I decided
-the best use of my time can be spent creating my own list of words and have the program reference that file. This was definitely faster, and less complicated.
+One challenge I faced was figuring how to get the program to add "y" as a vowel at the appropriate time. I orginally 
+wanted to have the program read a file containing all of the english words that have "y" as a vowel, but I couldn't find such a 
+list online. I briefly tried to create several conditional statements that could detect when "y" might be a vowel instead. In the end, I decided
+the best use of my time could be spent creating my own list of words and have the program reference that file. This was definitely faster, and less complicated.
 
 
 <imgg width="600" alt="carbon" src="https: //user-images.githubusercontent.com/76184787/180669592-44adda9a-f068-4fbf-86c9-b927203a317a.png">
