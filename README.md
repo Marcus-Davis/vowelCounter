@@ -4,7 +4,7 @@
 This program displays the total count of vowels in the text from user input.
 
 
-## Additional Features
+## Features
 
 - Counts number of vowels (including "y")
 - Counts number of characters
